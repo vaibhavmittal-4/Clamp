@@ -1,0 +1,452 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\charu\Downloads\Telegram-dev\Telegram-dev\Clamp\src\main\AndroidManifest.xml:2:1-271:12
+	package
+		ADDED from C:\Users\charu\Downloads\Telegram-dev\Telegram-dev\Clamp\src\main\AndroidManifest.xml:4:5-37
+	android:versionName
+		INJECTED from C:\Users\charu\Downloads\Telegram-dev\Telegram-dev\Clamp\src\main\AndroidManifest.xml
+		ADDED from C:\Users\charu\Downloads\Telegram-dev\Telegram-dev\Clamp\src\main\AndroidManifest.xml:2:1-271:12
+		INJECTED from C:\Users\charu\Downloads\Telegram-dev\Telegram-dev\Clamp\config\debug\AndroidManifest.xml
+	xmlns:tools
+		ADDED from C:\Users\charu\Downloads\Telegram-dev\Telegram-dev\Clamp\src\main\AndroidManifest.xml:3:5-51
+	xmlns:android
+		ADDED from C:\Users\charu\Downloads\Telegram-dev\Telegram-dev\Clamp\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from C:\Users\charu\Downloads\Telegram-dev\Telegram-dev\Clamp\src\main\AndroidManifest.xml
+		ADDED from C:\Users\charu\Downloads\Telegram-dev\Telegram-dev\Clamp\src\main\AndroidManifest.xml:2:1-271:12
+		INJECTED from C:\Users\charu\Downloads\Telegram-dev\Telegram-dev\Clamp\config\debug\AndroidManifest.xml
+	android:installLocation
+		ADDED from C:\Users\charu\Downloads\Telegram-dev\Telegram-dev\Clamp\src\main\AndroidManifest.xml:5:5-35
+supports-screens
+ADDED from C:\Users\charu\Downloads\Telegram-dev\Telegram-dev\Clamp\src\main\AndroidManifest.xml:7:5-13:40
+	android:largeScreens
+		ADDED from C:\Users\charu\Downloads\Telegram-dev\Telegram-dev\Clamp\src\main\AndroidManifest.xml:9:9-36
+	android:smallScreens
+		ADDED from C:\Users\charu\Downloads\Telegram-dev\Telegram-dev\Clamp\src\main\AndroidManifest.xml:12:9-36
+	android:normalScreens
+		ADDED from C:\Users\charu\Downloads\Telegram-dev\Telegram-dev\Clamp\src\main\AndroidManifest.xml:10:9-37
+	android:xlargeScreens
+		ADDED from C:\Users\charu\Downloads\Telegram-dev\Telegram-dev\Clamp\src\main\AndroidManifest.xml:13:9-37
+	android:resizeable
+		ADDED from C:\Users\charu\Downloads\Telegram-dev\Telegram-dev\Clamp\src\main\AndroidManifest.xml:11:9-34
+	android:anyDensity
+		ADDED from C:\Users\charu\Downloads\Telegram-dev\Telegram-dev\Clamp\src\main\AndroidManifest.xml:8:9-34
+uses-feature#0x00020000
+ADDED from C:\Users\charu\Downloads\Telegram-dev\Telegram-dev\Clamp\src\main\AndroidManifest.xml:15:5-17:36
+	android:glEsVersion
+		ADDED from C:\Users\charu\Downloads\Telegram-dev\Telegram-dev\Clamp\src\main\AndroidManifest.xml:16:9-41
+	android:required
+		ADDED from C:\Users\charu\Downloads\Telegram-dev\Telegram-dev\Clamp\src\main\AndroidManifest.xml:17:9-33
+uses-feature#android.hardware.telephony
+ADDED from C:\Users\charu\Downloads\Telegram-dev\Telegram-dev\Clamp\src\main\AndroidManifest.xml:18:5-20:36
+	android:required
+		ADDED from C:\Users\charu\Downloads\Telegram-dev\Telegram-dev\Clamp\src\main\AndroidManifest.xml:20:9-33
+	android:name
+		ADDED from C:\Users\charu\Downloads\Telegram-dev\Telegram-dev\Clamp\src\main\AndroidManifest.xml:19:9-50
+uses-feature#android.hardware.camera.autofocus
+ADDED from C:\Users\charu\Downloads\Telegram-dev\Telegram-dev\Clamp\src\main\AndroidManifest.xml:21:5-23:36
+	android:required
+		ADDED from C:\Users\charu\Downloads\Telegram-dev\Telegram-dev\Clamp\src\main\AndroidManifest.xml:23:9-33
+	android:name
+		ADDED from C:\Users\charu\Downloads\Telegram-dev\Telegram-dev\Clamp\src\main\AndroidManifest.xml:22:9-57
+uses-feature#android.hardware.camera
+ADDED from C:\Users\charu\Downloads\Telegram-dev\Telegram-dev\Clamp\src\main\AndroidManifest.xml:24:5-26:36
+	android:required
+		ADDED from C:\Users\charu\Downloads\Telegram-dev\Telegram-dev\Clamp\src\main\AndroidManifest.xml:26:9-33
+	android:name
+		ADDED from C:\Users\charu\Downloads\Telegram-dev\Telegram-dev\Clamp\src\main\AndroidManifest.xml:25:9-47
+uses-feature#android.hardware.wifi
+ADDED from C:\Users\charu\Downloads\Telegram-dev\Telegram-dev\Clamp\src\main\AndroidManifest.xml:27:5-29:36
+	android:required
+		ADDED from C:\Users\charu\Downloads\Telegram-dev\Telegram-dev\Clamp\src\main\AndroidManifest.xml:29:9-33
+	android:name
+		ADDED from C:\Users\charu\Downloads\Telegram-dev\Telegram-dev\Clamp\src\main\AndroidManifest.xml:28:9-45
+uses-feature#android.hardware.screen.PORTRAIT
+ADDED from C:\Users\charu\Downloads\Telegram-dev\Telegram-dev\Clamp\src\main\AndroidManifest.xml:30:5-32:36
+	android:required
+		ADDED from C:\Users\charu\Downloads\Telegram-dev\Telegram-dev\Clamp\src\main\AndroidManifest.xml:32:9-33
+	android:name
+		ADDED from C:\Users\charu\Downloads\Telegram-dev\Telegram-dev\Clamp\src\main\AndroidManifest.xml:31:9-56
+uses-feature#android.hardware.microphone
+ADDED from C:\Users\charu\Downloads\Telegram-dev\Telegram-dev\Clamp\src\main\AndroidManifest.xml:33:5-35:36
+	android:required
+		ADDED from C:\Users\charu\Downloads\Telegram-dev\Telegram-dev\Clamp\src\main\AndroidManifest.xml:35:9-33
+	android:name
+		ADDED from C:\Users\charu\Downloads\Telegram-dev\Telegram-dev\Clamp\src\main\AndroidManifest.xml:34:9-51
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\charu\Downloads\Telegram-dev\Telegram-dev\Clamp\src\main\AndroidManifest.xml:37:5-67
+	android:name
+		ADDED from C:\Users\charu\Downloads\Telegram-dev\Telegram-dev\Clamp\src\main\AndroidManifest.xml:37:22-64
+uses-permission#android.permission.RECORD_AUDIO
+ADDED from C:\Users\charu\Downloads\Telegram-dev\Telegram-dev\Clamp\src\main\AndroidManifest.xml:38:5-71
+	android:name
+		ADDED from C:\Users\charu\Downloads\Telegram-dev\Telegram-dev\Clamp\src\main\AndroidManifest.xml:38:22-68
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from C:\Users\charu\Downloads\Telegram-dev\Telegram-dev\Clamp\src\main\AndroidManifest.xml:39:5-79
+	android:name
+		ADDED from C:\Users\charu\Downloads\Telegram-dev\Telegram-dev\Clamp\src\main\AndroidManifest.xml:39:22-76
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from C:\Users\charu\Downloads\Telegram-dev\Telegram-dev\Clamp\src\main\AndroidManifest.xml:40:5-76
+	android:name
+		ADDED from C:\Users\charu\Downloads\Telegram-dev\Telegram-dev\Clamp\src\main\AndroidManifest.xml:40:22-73
+uses-permission#android.permission.RECEIVE_SMS
+ADDED from C:\Users\charu\Downloads\Telegram-dev\Telegram-dev\Clamp\src\main\AndroidManifest.xml:41:5-70
+	android:name
+		ADDED from C:\Users\charu\Downloads\Telegram-dev\Telegram-dev\Clamp\src\main\AndroidManifest.xml:41:22-67
+uses-permission#android.permission.WAKE_LOCK
+ADDED from C:\Users\charu\Downloads\Telegram-dev\Telegram-dev\Clamp\src\main\AndroidManifest.xml:42:5-68
+	android:name
+		ADDED from C:\Users\charu\Downloads\Telegram-dev\Telegram-dev\Clamp\src\main\AndroidManifest.xml:42:22-65
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from C:\Users\charu\Downloads\Telegram-dev\Telegram-dev\Clamp\src\main\AndroidManifest.xml:43:5-81
+	android:name
+		ADDED from C:\Users\charu\Downloads\Telegram-dev\Telegram-dev\Clamp\src\main\AndroidManifest.xml:43:22-78
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from C:\Users\charu\Downloads\Telegram-dev\Telegram-dev\Clamp\src\main\AndroidManifest.xml:44:5-80
+	android:name
+		ADDED from C:\Users\charu\Downloads\Telegram-dev\Telegram-dev\Clamp\src\main\AndroidManifest.xml:44:22-77
+uses-permission#android.permission.CAMERA
+ADDED from C:\Users\charu\Downloads\Telegram-dev\Telegram-dev\Clamp\src\main\AndroidManifest.xml:45:5-65
+	android:name
+		ADDED from C:\Users\charu\Downloads\Telegram-dev\Telegram-dev\Clamp\src\main\AndroidManifest.xml:45:22-62
+uses-permission#android.permission.GET_ACCOUNTS
+ADDED from C:\Users\charu\Downloads\Telegram-dev\Telegram-dev\Clamp\src\main\AndroidManifest.xml:46:5-71
+	android:name
+		ADDED from C:\Users\charu\Downloads\Telegram-dev\Telegram-dev\Clamp\src\main\AndroidManifest.xml:46:22-68
+uses-permission#android.permission.READ_CONTACTS
+ADDED from C:\Users\charu\Downloads\Telegram-dev\Telegram-dev\Clamp\src\main\AndroidManifest.xml:47:5-72
+	android:name
+		ADDED from C:\Users\charu\Downloads\Telegram-dev\Telegram-dev\Clamp\src\main\AndroidManifest.xml:47:22-69
+uses-permission#android.permission.WRITE_CONTACTS
+ADDED from C:\Users\charu\Downloads\Telegram-dev\Telegram-dev\Clamp\src\main\AndroidManifest.xml:48:5-73
+	android:name
+		ADDED from C:\Users\charu\Downloads\Telegram-dev\Telegram-dev\Clamp\src\main\AndroidManifest.xml:48:22-70
+uses-permission#android.permission.MANAGE_ACCOUNTS
+ADDED from C:\Users\charu\Downloads\Telegram-dev\Telegram-dev\Clamp\src\main\AndroidManifest.xml:49:5-74
+	android:name
+		ADDED from C:\Users\charu\Downloads\Telegram-dev\Telegram-dev\Clamp\src\main\AndroidManifest.xml:49:22-71
+uses-permission#android.permission.READ_PROFILE
+ADDED from C:\Users\charu\Downloads\Telegram-dev\Telegram-dev\Clamp\src\main\AndroidManifest.xml:50:5-71
+	android:name
+		ADDED from C:\Users\charu\Downloads\Telegram-dev\Telegram-dev\Clamp\src\main\AndroidManifest.xml:50:22-68
+uses-permission#android.permission.WRITE_SYNC_SETTINGS
+ADDED from C:\Users\charu\Downloads\Telegram-dev\Telegram-dev\Clamp\src\main\AndroidManifest.xml:51:5-78
+	android:name
+		ADDED from C:\Users\charu\Downloads\Telegram-dev\Telegram-dev\Clamp\src\main\AndroidManifest.xml:51:22-75
+uses-permission#android.permission.READ_SYNC_SETTINGS
+ADDED from C:\Users\charu\Downloads\Telegram-dev\Telegram-dev\Clamp\src\main\AndroidManifest.xml:52:5-77
+	android:name
+		ADDED from C:\Users\charu\Downloads\Telegram-dev\Telegram-dev\Clamp\src\main\AndroidManifest.xml:52:22-74
+uses-permission#android.permission.AUTHENTICATE_ACCOUNTS
+ADDED from C:\Users\charu\Downloads\Telegram-dev\Telegram-dev\Clamp\src\main\AndroidManifest.xml:53:5-80
+	android:name
+		ADDED from C:\Users\charu\Downloads\Telegram-dev\Telegram-dev\Clamp\src\main\AndroidManifest.xml:53:22-77
+uses-permission#android.permission.VIBRATE
+ADDED from C:\Users\charu\Downloads\Telegram-dev\Telegram-dev\Clamp\src\main\AndroidManifest.xml:54:5-66
+	android:name
+		ADDED from C:\Users\charu\Downloads\Telegram-dev\Telegram-dev\Clamp\src\main\AndroidManifest.xml:54:22-63
+uses-permission#android.permission.SYSTEM_ALERT_WINDOW
+ADDED from C:\Users\charu\Downloads\Telegram-dev\Telegram-dev\Clamp\src\main\AndroidManifest.xml:55:5-78
+	android:name
+		ADDED from C:\Users\charu\Downloads\Telegram-dev\Telegram-dev\Clamp\src\main\AndroidManifest.xml:55:22-75
+uses-permission#android.permission.INTERNAL_SYSYTEM_WINDOW
+ADDED from C:\Users\charu\Downloads\Telegram-dev\Telegram-dev\Clamp\src\main\AndroidManifest.xml:56:5-82
+	android:name
+		ADDED from C:\Users\charu\Downloads\Telegram-dev\Telegram-dev\Clamp\src\main\AndroidManifest.xml:56:22-79
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from C:\Users\charu\Downloads\Telegram-dev\Telegram-dev\Clamp\src\main\AndroidManifest.xml:57:5-75
+	android:name
+		ADDED from C:\Users\charu\Downloads\Telegram-dev\Telegram-dev\Clamp\src\main\AndroidManifest.xml:57:22-72
+uses-permission#android.permission.RECEIVE_BOOT_COMPLETED
+ADDED from C:\Users\charu\Downloads\Telegram-dev\Telegram-dev\Clamp\src\main\AndroidManifest.xml:58:5-81
+	android:name
+		ADDED from C:\Users\charu\Downloads\Telegram-dev\Telegram-dev\Clamp\src\main\AndroidManifest.xml:58:22-78
+application
+ADDED from C:\Users\charu\Downloads\Telegram-dev\Telegram-dev\Clamp\src\main\AndroidManifest.xml:60:5-269:19
+MERGED from C:\Users\charu\Downloads\Telegram-dev\Telegram-dev\Clamp\src\main\AndroidManifest.xml:60:5-269:19
+MERGED from [com.android.support:support-v4:22.1.0] C:\Users\charu\Downloads\Telegram-dev\Telegram-dev\Clamp\build\intermediates\exploded-aar\com.android.support\support-v4\22.1.0\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:22.1.0] C:\Users\charu\Downloads\Telegram-dev\Telegram-dev\Clamp\build\intermediates\exploded-aar\com.android.support\support-v4\22.1.0\AndroidManifest.xml:22:5-20
+	android:label
+		ADDED from C:\Users\charu\Downloads\Telegram-dev\Telegram-dev\Clamp\src\main\AndroidManifest.xml:65:9-40
+		REJECTED from C:\Users\charu\Downloads\Telegram-dev\Telegram-dev\Clamp\src\main\AndroidManifest.xml:65:9-40
+	android:hardwareAccelerated
+		ADDED from C:\Users\charu\Downloads\Telegram-dev\Telegram-dev\Clamp\src\main\AndroidManifest.xml:63:9-68
+	android:allowBackup
+		ADDED from C:\Users\charu\Downloads\Telegram-dev\Telegram-dev\Clamp\src\main\AndroidManifest.xml:62:9-36
+	android:icon
+		ADDED from C:\Users\charu\Downloads\Telegram-dev\Telegram-dev\Clamp\src\main\AndroidManifest.xml:64:9-38
+		REJECTED from C:\Users\charu\Downloads\Telegram-dev\Telegram-dev\Clamp\src\main\AndroidManifest.xml:64:9-38
+	android:largeHeap
+		ADDED from C:\Users\charu\Downloads\Telegram-dev\Telegram-dev\Clamp\src\main\AndroidManifest.xml:66:9-33
+	android:theme
+		ADDED from C:\Users\charu\Downloads\Telegram-dev\Telegram-dev\Clamp\src\main\AndroidManifest.xml:67:9-53
+		REJECTED from C:\Users\charu\Downloads\Telegram-dev\Telegram-dev\Clamp\src\main\AndroidManifest.xml:67:9-53
+	tools:replace
+		ADDED from C:\Users\charu\Downloads\Telegram-dev\Telegram-dev\Clamp\src\main\AndroidManifest.xml:68:9-65
+	android:name
+		ADDED from C:\Users\charu\Downloads\Telegram-dev\Telegram-dev\Clamp\src\main\AndroidManifest.xml:61:9-42
+activity#org.telegram.ui.LaunchActivity
+ADDED from C:\Users\charu\Downloads\Telegram-dev\Telegram-dev\Clamp\src\main\AndroidManifest.xml:69:9-153:20
+	android:hardwareAccelerated
+		ADDED from C:\Users\charu\Downloads\Telegram-dev\Telegram-dev\Clamp\src\main\AndroidManifest.xml:72:13-72
+	android:launchMode
+		ADDED from C:\Users\charu\Downloads\Telegram-dev\Telegram-dev\Clamp\src\main\AndroidManifest.xml:73:13-44
+	android:windowSoftInputMode
+		ADDED from C:\Users\charu\Downloads\Telegram-dev\Telegram-dev\Clamp\src\main\AndroidManifest.xml:74:13-52
+	android:configChanges
+		ADDED from C:\Users\charu\Downloads\Telegram-dev\Telegram-dev\Clamp\src\main\AndroidManifest.xml:71:13-83
+	android:name
+		ADDED from C:\Users\charu\Downloads\Telegram-dev\Telegram-dev\Clamp\src\main\AndroidManifest.xml:70:13-58
+intent-filter#android.intent.action.MAIN+android.intent.category.DEFAULT+android.intent.category.MULTIWINDOW_LAUNCHER
+ADDED from C:\Users\charu\Downloads\Telegram-dev\Telegram-dev\Clamp\src\main\AndroidManifest.xml:75:13-80:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\charu\Downloads\Telegram-dev\Telegram-dev\Clamp\src\main\AndroidManifest.xml:76:17-69
+	android:name
+		ADDED from C:\Users\charu\Downloads\Telegram-dev\Telegram-dev\Clamp\src\main\AndroidManifest.xml:76:25-66
+category#android.intent.category.DEFAULT
+ADDED from C:\Users\charu\Downloads\Telegram-dev\Telegram-dev\Clamp\src\main\AndroidManifest.xml:78:17-76
+	android:name
+		ADDED from C:\Users\charu\Downloads\Telegram-dev\Telegram-dev\Clamp\src\main\AndroidManifest.xml:78:27-73
+category#android.intent.category.MULTIWINDOW_LAUNCHER
+ADDED from C:\Users\charu\Downloads\Telegram-dev\Telegram-dev\Clamp\src\main\AndroidManifest.xml:79:17-89
+	android:name
+		ADDED from C:\Users\charu\Downloads\Telegram-dev\Telegram-dev\Clamp\src\main\AndroidManifest.xml:79:27-86
+intent-filter#android.intent.action.SEND+android.intent.category.DEFAULT
+ADDED from C:\Users\charu\Downloads\Telegram-dev\Telegram-dev\Clamp\src\main\AndroidManifest.xml:81:13-87:29
+action#android.intent.action.SEND
+ADDED from C:\Users\charu\Downloads\Telegram-dev\Telegram-dev\Clamp\src\main\AndroidManifest.xml:82:17-69
+	android:name
+		ADDED from C:\Users\charu\Downloads\Telegram-dev\Telegram-dev\Clamp\src\main\AndroidManifest.xml:82:25-66
+data
+ADDED from C:\Users\charu\Downloads\Telegram-dev\Telegram-dev\Clamp\src\main\AndroidManifest.xml:86:17-52
+	android:mimeType
+		ADDED from C:\Users\charu\Downloads\Telegram-dev\Telegram-dev\Clamp\src\main\AndroidManifest.xml:86:23-49
+intent-filter#android.intent.action.SEND_MULTIPLE+android.intent.category.DEFAULT
+ADDED from C:\Users\charu\Downloads\Telegram-dev\Telegram-dev\Clamp\src\main\AndroidManifest.xml:95:13-101:29
+action#android.intent.action.SEND_MULTIPLE
+ADDED from C:\Users\charu\Downloads\Telegram-dev\Telegram-dev\Clamp\src\main\AndroidManifest.xml:96:17-78
+	android:name
+		ADDED from C:\Users\charu\Downloads\Telegram-dev\Telegram-dev\Clamp\src\main\AndroidManifest.xml:96:25-75
+intent-filter#android.intent.action.VIEW+android.intent.category.DEFAULT
+ADDED from C:\Users\charu\Downloads\Telegram-dev\Telegram-dev\Clamp\src\main\AndroidManifest.xml:123:13-129:29
+action#android.intent.action.VIEW
+ADDED from C:\Users\charu\Downloads\Telegram-dev\Telegram-dev\Clamp\src\main\AndroidManifest.xml:124:17-69
+	android:name
+		ADDED from C:\Users\charu\Downloads\Telegram-dev\Telegram-dev\Clamp\src\main\AndroidManifest.xml:124:25-66
+intent-filter#android.intent.action.VIEW+android.intent.category.BROWSABLE+android.intent.category.DEFAULT
+ADDED from C:\Users\charu\Downloads\Telegram-dev\Telegram-dev\Clamp\src\main\AndroidManifest.xml:130:13-142:29
+category#android.intent.category.BROWSABLE
+ADDED from C:\Users\charu\Downloads\Telegram-dev\Telegram-dev\Clamp\src\main\AndroidManifest.xml:134:17-78
+	android:name
+		ADDED from C:\Users\charu\Downloads\Telegram-dev\Telegram-dev\Clamp\src\main\AndroidManifest.xml:134:27-75
+activity#org.telegram.ui.IntroActivity
+ADDED from C:\Users\charu\Downloads\Telegram-dev\Telegram-dev\Clamp\src\main\AndroidManifest.xml:154:9-157:20
+	android:configChanges
+		ADDED from C:\Users\charu\Downloads\Telegram-dev\Telegram-dev\Clamp\src\main\AndroidManifest.xml:156:13-83
+	android:name
+		ADDED from C:\Users\charu\Downloads\Telegram-dev\Telegram-dev\Clamp\src\main\AndroidManifest.xml:155:13-57
+activity#org.telegram.ui.PopupNotificationActivity
+ADDED from C:\Users\charu\Downloads\Telegram-dev\Telegram-dev\Clamp\src\main\AndroidManifest.xml:158:9-166:20
+	android:excludeFromRecents
+		ADDED from C:\Users\charu\Downloads\Telegram-dev\Telegram-dev\Clamp\src\main\AndroidManifest.xml:161:13-46
+	android:launchMode
+		ADDED from C:\Users\charu\Downloads\Telegram-dev\Telegram-dev\Clamp\src\main\AndroidManifest.xml:162:13-44
+	android:windowSoftInputMode
+		ADDED from C:\Users\charu\Downloads\Telegram-dev\Telegram-dev\Clamp\src\main\AndroidManifest.xml:165:13-67
+	android:configChanges
+		ADDED from C:\Users\charu\Downloads\Telegram-dev\Telegram-dev\Clamp\src\main\AndroidManifest.xml:160:13-133
+	android:theme
+		ADDED from C:\Users\charu\Downloads\Telegram-dev\Telegram-dev\Clamp\src\main\AndroidManifest.xml:164:13-69
+	android:taskAffinity
+		ADDED from C:\Users\charu\Downloads\Telegram-dev\Telegram-dev\Clamp\src\main\AndroidManifest.xml:163:13-36
+	android:name
+		ADDED from C:\Users\charu\Downloads\Telegram-dev\Telegram-dev\Clamp\src\main\AndroidManifest.xml:159:13-69
+receiver#org.telegram.android.AutoMessageHeardReceiver
+ADDED from C:\Users\charu\Downloads\Telegram-dev\Telegram-dev\Clamp\src\main\AndroidManifest.xml:168:9-172:20
+	android:name
+		ADDED from C:\Users\charu\Downloads\Telegram-dev\Telegram-dev\Clamp\src\main\AndroidManifest.xml:168:19-79
+intent-filter#org.telegram.messenger.ACTION_MESSAGE_HEARD
+ADDED from C:\Users\charu\Downloads\Telegram-dev\Telegram-dev\Clamp\src\main\AndroidManifest.xml:169:13-171:29
+action#org.telegram.messenger.ACTION_MESSAGE_HEARD
+ADDED from C:\Users\charu\Downloads\Telegram-dev\Telegram-dev\Clamp\src\main\AndroidManifest.xml:170:17-86
+	android:name
+		ADDED from C:\Users\charu\Downloads\Telegram-dev\Telegram-dev\Clamp\src\main\AndroidManifest.xml:170:25-83
+receiver#org.telegram.android.AutoMessageReplyReceiver
+ADDED from C:\Users\charu\Downloads\Telegram-dev\Telegram-dev\Clamp\src\main\AndroidManifest.xml:173:9-177:20
+	android:name
+		ADDED from C:\Users\charu\Downloads\Telegram-dev\Telegram-dev\Clamp\src\main\AndroidManifest.xml:173:19-79
+intent-filter#org.telegram.messenger.ACTION_MESSAGE_REPLY
+ADDED from C:\Users\charu\Downloads\Telegram-dev\Telegram-dev\Clamp\src\main\AndroidManifest.xml:174:13-176:29
+action#org.telegram.messenger.ACTION_MESSAGE_REPLY
+ADDED from C:\Users\charu\Downloads\Telegram-dev\Telegram-dev\Clamp\src\main\AndroidManifest.xml:175:17-86
+	android:name
+		ADDED from C:\Users\charu\Downloads\Telegram-dev\Telegram-dev\Clamp\src\main\AndroidManifest.xml:175:25-83
+receiver#org.telegram.android.SmsListener
+ADDED from C:\Users\charu\Downloads\Telegram-dev\Telegram-dev\Clamp\src\main\AndroidManifest.xml:178:9-182:20
+	android:name
+		ADDED from C:\Users\charu\Downloads\Telegram-dev\Telegram-dev\Clamp\src\main\AndroidManifest.xml:178:19-66
+intent-filter#android.provider.Telephony.SMS_RECEIVED
+ADDED from C:\Users\charu\Downloads\Telegram-dev\Telegram-dev\Clamp\src\main\AndroidManifest.xml:179:13-181:29
+action#android.provider.Telephony.SMS_RECEIVED
+ADDED from C:\Users\charu\Downloads\Telegram-dev\Telegram-dev\Clamp\src\main\AndroidManifest.xml:180:17-82
+	android:name
+		ADDED from C:\Users\charu\Downloads\Telegram-dev\Telegram-dev\Clamp\src\main\AndroidManifest.xml:180:25-79
+service#org.telegram.android.AuthenticatorService
+ADDED from C:\Users\charu\Downloads\Telegram-dev\Telegram-dev\Clamp\src\main\AndroidManifest.xml:184:9-194:19
+	android:exported
+		ADDED from C:\Users\charu\Downloads\Telegram-dev\Telegram-dev\Clamp\src\main\AndroidManifest.xml:186:13-36
+	android:name
+		ADDED from C:\Users\charu\Downloads\Telegram-dev\Telegram-dev\Clamp\src\main\AndroidManifest.xml:185:13-69
+intent-filter#android.accounts.AccountAuthenticator
+ADDED from C:\Users\charu\Downloads\Telegram-dev\Telegram-dev\Clamp\src\main\AndroidManifest.xml:187:13-189:29
+action#android.accounts.AccountAuthenticator
+ADDED from C:\Users\charu\Downloads\Telegram-dev\Telegram-dev\Clamp\src\main\AndroidManifest.xml:188:17-80
+	android:name
+		ADDED from C:\Users\charu\Downloads\Telegram-dev\Telegram-dev\Clamp\src\main\AndroidManifest.xml:188:25-77
+meta-data#android.accounts.AccountAuthenticator
+ADDED from C:\Users\charu\Downloads\Telegram-dev\Telegram-dev\Clamp\src\main\AndroidManifest.xml:191:13-193:48
+	android:resource
+		ADDED from C:\Users\charu\Downloads\Telegram-dev\Telegram-dev\Clamp\src\main\AndroidManifest.xml:193:17-45
+	android:name
+		ADDED from C:\Users\charu\Downloads\Telegram-dev\Telegram-dev\Clamp\src\main\AndroidManifest.xml:192:17-69
+service#org.telegram.android.ContactsSyncAdapterService
+ADDED from C:\Users\charu\Downloads\Telegram-dev\Telegram-dev\Clamp\src\main\AndroidManifest.xml:195:9-208:19
+	android:exported
+		ADDED from C:\Users\charu\Downloads\Telegram-dev\Telegram-dev\Clamp\src\main\AndroidManifest.xml:197:13-36
+	android:name
+		ADDED from C:\Users\charu\Downloads\Telegram-dev\Telegram-dev\Clamp\src\main\AndroidManifest.xml:196:13-75
+intent-filter#android.content.SyncAdapter
+ADDED from C:\Users\charu\Downloads\Telegram-dev\Telegram-dev\Clamp\src\main\AndroidManifest.xml:198:13-200:29
+action#android.content.SyncAdapter
+ADDED from C:\Users\charu\Downloads\Telegram-dev\Telegram-dev\Clamp\src\main\AndroidManifest.xml:199:17-70
+	android:name
+		ADDED from C:\Users\charu\Downloads\Telegram-dev\Telegram-dev\Clamp\src\main\AndroidManifest.xml:199:25-67
+meta-data#android.content.SyncAdapter
+ADDED from C:\Users\charu\Downloads\Telegram-dev\Telegram-dev\Clamp\src\main\AndroidManifest.xml:202:13-204:57
+	android:resource
+		ADDED from C:\Users\charu\Downloads\Telegram-dev\Telegram-dev\Clamp\src\main\AndroidManifest.xml:204:17-54
+	android:name
+		ADDED from C:\Users\charu\Downloads\Telegram-dev\Telegram-dev\Clamp\src\main\AndroidManifest.xml:203:17-59
+meta-data#android.provider.CONTACTS_STRUCTURE
+ADDED from C:\Users\charu\Downloads\Telegram-dev\Telegram-dev\Clamp\src\main\AndroidManifest.xml:205:13-207:52
+	android:resource
+		ADDED from C:\Users\charu\Downloads\Telegram-dev\Telegram-dev\Clamp\src\main\AndroidManifest.xml:207:17-49
+	android:name
+		ADDED from C:\Users\charu\Downloads\Telegram-dev\Telegram-dev\Clamp\src\main\AndroidManifest.xml:206:17-67
+service#org.telegram.android.NotificationsService
+ADDED from C:\Users\charu\Downloads\Telegram-dev\Telegram-dev\Clamp\src\main\AndroidManifest.xml:209:9-211:38
+	android:enabled
+		ADDED from C:\Users\charu\Downloads\Telegram-dev\Telegram-dev\Clamp\src\main\AndroidManifest.xml:211:13-35
+	android:name
+		ADDED from C:\Users\charu\Downloads\Telegram-dev\Telegram-dev\Clamp\src\main\AndroidManifest.xml:210:13-69
+service#org.telegram.android.NotificationRepeat
+ADDED from C:\Users\charu\Downloads\Telegram-dev\Telegram-dev\Clamp\src\main\AndroidManifest.xml:212:9-214:40
+	android:exported
+		ADDED from C:\Users\charu\Downloads\Telegram-dev\Telegram-dev\Clamp\src\main\AndroidManifest.xml:214:13-37
+	android:name
+		ADDED from C:\Users\charu\Downloads\Telegram-dev\Telegram-dev\Clamp\src\main\AndroidManifest.xml:213:13-67
+service#org.telegram.android.NotificationDelay
+ADDED from C:\Users\charu\Downloads\Telegram-dev\Telegram-dev\Clamp\src\main\AndroidManifest.xml:215:9-217:40
+	android:exported
+		ADDED from C:\Users\charu\Downloads\Telegram-dev\Telegram-dev\Clamp\src\main\AndroidManifest.xml:217:13-37
+	android:name
+		ADDED from C:\Users\charu\Downloads\Telegram-dev\Telegram-dev\Clamp\src\main\AndroidManifest.xml:216:13-66
+service#org.telegram.android.VideoEncodingService
+ADDED from C:\Users\charu\Downloads\Telegram-dev\Telegram-dev\Clamp\src\main\AndroidManifest.xml:218:9-220:38
+	android:enabled
+		ADDED from C:\Users\charu\Downloads\Telegram-dev\Telegram-dev\Clamp\src\main\AndroidManifest.xml:220:13-35
+	android:name
+		ADDED from C:\Users\charu\Downloads\Telegram-dev\Telegram-dev\Clamp\src\main\AndroidManifest.xml:219:13-69
+receiver#org.telegram.android.AppStartReceiver
+ADDED from C:\Users\charu\Downloads\Telegram-dev\Telegram-dev\Clamp\src\main\AndroidManifest.xml:222:9-229:20
+	android:enabled
+		ADDED from C:\Users\charu\Downloads\Telegram-dev\Telegram-dev\Clamp\src\main\AndroidManifest.xml:224:13-35
+	android:name
+		ADDED from C:\Users\charu\Downloads\Telegram-dev\Telegram-dev\Clamp\src\main\AndroidManifest.xml:223:13-65
+intent-filter#android.intent.action.BOOT_COMPLETED+org.telegram.start
+ADDED from C:\Users\charu\Downloads\Telegram-dev\Telegram-dev\Clamp\src\main\AndroidManifest.xml:225:13-228:29
+action#org.telegram.start
+ADDED from C:\Users\charu\Downloads\Telegram-dev\Telegram-dev\Clamp\src\main\AndroidManifest.xml:226:17-61
+	android:name
+		ADDED from C:\Users\charu\Downloads\Telegram-dev\Telegram-dev\Clamp\src\main\AndroidManifest.xml:226:25-58
+action#android.intent.action.BOOT_COMPLETED
+ADDED from C:\Users\charu\Downloads\Telegram-dev\Telegram-dev\Clamp\src\main\AndroidManifest.xml:227:17-79
+	android:name
+		ADDED from C:\Users\charu\Downloads\Telegram-dev\Telegram-dev\Clamp\src\main\AndroidManifest.xml:227:25-76
+receiver#org.telegram.android.WearReplyReceiver
+ADDED from C:\Users\charu\Downloads\Telegram-dev\Telegram-dev\Clamp\src\main\AndroidManifest.xml:230:9-232:38
+	android:enabled
+		ADDED from C:\Users\charu\Downloads\Telegram-dev\Telegram-dev\Clamp\src\main\AndroidManifest.xml:232:13-35
+	android:name
+		ADDED from C:\Users\charu\Downloads\Telegram-dev\Telegram-dev\Clamp\src\main\AndroidManifest.xml:231:13-66
+uses-library#com.sec.android.app.multiwindow
+ADDED from C:\Users\charu\Downloads\Telegram-dev\Telegram-dev\Clamp\src\main\AndroidManifest.xml:234:9-236:40
+	android:required
+		ADDED from C:\Users\charu\Downloads\Telegram-dev\Telegram-dev\Clamp\src\main\AndroidManifest.xml:236:13-37
+	android:name
+		ADDED from C:\Users\charu\Downloads\Telegram-dev\Telegram-dev\Clamp\src\main\AndroidManifest.xml:235:13-59
+meta-data#com.sec.android.support.multiwindow
+ADDED from C:\Users\charu\Downloads\Telegram-dev\Telegram-dev\Clamp\src\main\AndroidManifest.xml:238:9-240:36
+	android:value
+		ADDED from C:\Users\charu\Downloads\Telegram-dev\Telegram-dev\Clamp\src\main\AndroidManifest.xml:240:13-33
+	android:name
+		ADDED from C:\Users\charu\Downloads\Telegram-dev\Telegram-dev\Clamp\src\main\AndroidManifest.xml:239:13-63
+meta-data#com.sec.android.multiwindow.DEFAULT_SIZE_W
+ADDED from C:\Users\charu\Downloads\Telegram-dev\Telegram-dev\Clamp\src\main\AndroidManifest.xml:241:9-243:37
+	android:value
+		ADDED from C:\Users\charu\Downloads\Telegram-dev\Telegram-dev\Clamp\src\main\AndroidManifest.xml:243:13-34
+	android:name
+		ADDED from C:\Users\charu\Downloads\Telegram-dev\Telegram-dev\Clamp\src\main\AndroidManifest.xml:242:13-70
+meta-data#com.sec.android.multiwindow.DEFAULT_SIZE_H
+ADDED from C:\Users\charu\Downloads\Telegram-dev\Telegram-dev\Clamp\src\main\AndroidManifest.xml:244:9-246:37
+	android:value
+		ADDED from C:\Users\charu\Downloads\Telegram-dev\Telegram-dev\Clamp\src\main\AndroidManifest.xml:246:13-34
+	android:name
+		ADDED from C:\Users\charu\Downloads\Telegram-dev\Telegram-dev\Clamp\src\main\AndroidManifest.xml:245:13-70
+meta-data#com.sec.android.multiwindow.MINIMUM_SIZE_W
+ADDED from C:\Users\charu\Downloads\Telegram-dev\Telegram-dev\Clamp\src\main\AndroidManifest.xml:247:9-249:37
+	android:value
+		ADDED from C:\Users\charu\Downloads\Telegram-dev\Telegram-dev\Clamp\src\main\AndroidManifest.xml:249:13-34
+	android:name
+		ADDED from C:\Users\charu\Downloads\Telegram-dev\Telegram-dev\Clamp\src\main\AndroidManifest.xml:248:13-70
+meta-data#com.sec.android.multiwindow.MINIMUM_SIZE_H
+ADDED from C:\Users\charu\Downloads\Telegram-dev\Telegram-dev\Clamp\src\main\AndroidManifest.xml:250:9-252:37
+	android:value
+		ADDED from C:\Users\charu\Downloads\Telegram-dev\Telegram-dev\Clamp\src\main\AndroidManifest.xml:252:13-34
+	android:name
+		ADDED from C:\Users\charu\Downloads\Telegram-dev\Telegram-dev\Clamp\src\main\AndroidManifest.xml:251:13-70
+meta-data#com.google.android.gms.car.application
+ADDED from C:\Users\charu\Downloads\Telegram-dev\Telegram-dev\Clamp\src\main\AndroidManifest.xml:253:9-255:59
+	android:resource
+		ADDED from C:\Users\charu\Downloads\Telegram-dev\Telegram-dev\Clamp\src\main\AndroidManifest.xml:255:13-56
+	android:name
+		ADDED from C:\Users\charu\Downloads\Telegram-dev\Telegram-dev\Clamp\src\main\AndroidManifest.xml:254:13-66
+service#org.telegram.android.ChatHeadService
+ADDED from C:\Users\charu\Downloads\Telegram-dev\Telegram-dev\Clamp\src\main\AndroidManifest.xml:257:9-72
+	android:name
+		ADDED from C:\Users\charu\Downloads\Telegram-dev\Telegram-dev\Clamp\src\main\AndroidManifest.xml:257:18-69
+activity#org.telegram.messenger.SplashScreen
+ADDED from C:\Users\charu\Downloads\Telegram-dev\Telegram-dev\Clamp\src\main\AndroidManifest.xml:259:9-268:20
+	android:screenOrientation
+		ADDED from C:\Users\charu\Downloads\Telegram-dev\Telegram-dev\Clamp\src\main\AndroidManifest.xml:262:13-49
+	android:theme
+		ADDED from C:\Users\charu\Downloads\Telegram-dev\Telegram-dev\Clamp\src\main\AndroidManifest.xml:263:13-66
+	android:name
+		ADDED from C:\Users\charu\Downloads\Telegram-dev\Telegram-dev\Clamp\src\main\AndroidManifest.xml:260:13-40
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from C:\Users\charu\Downloads\Telegram-dev\Telegram-dev\Clamp\src\main\AndroidManifest.xml:264:13-267:29
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\charu\Downloads\Telegram-dev\Telegram-dev\Clamp\src\main\AndroidManifest.xml:266:17-77
+	android:name
+		ADDED from C:\Users\charu\Downloads\Telegram-dev\Telegram-dev\Clamp\src\main\AndroidManifest.xml:266:27-74
+uses-sdk
+INJECTED from C:\Users\charu\Downloads\Telegram-dev\Telegram-dev\Clamp\src\main\AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support:support-v4:22.1.0] C:\Users\charu\Downloads\Telegram-dev\Telegram-dev\Clamp\build\intermediates\exploded-aar\com.android.support\support-v4\22.1.0\AndroidManifest.xml:20:5-43
+MERGED from [com.google.android.gms:play-services:3.2.65] C:\Users\charu\Downloads\Telegram-dev\Telegram-dev\Clamp\build\intermediates\exploded-aar\com.google.android.gms\play-services\3.2.65\AndroidManifest.xml:7:5-42
+MERGED from [com.android.support:support-v4:22.1.0] C:\Users\charu\Downloads\Telegram-dev\Telegram-dev\Clamp\build\intermediates\exploded-aar\com.android.support\support-v4\22.1.0\AndroidManifest.xml:20:5-43
+	android:targetSdkVersion
+		INJECTED from C:\Users\charu\Downloads\Telegram-dev\Telegram-dev\Clamp\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\charu\Downloads\Telegram-dev\Telegram-dev\Clamp\config\debug\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\charu\Downloads\Telegram-dev\Telegram-dev\Clamp\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\charu\Downloads\Telegram-dev\Telegram-dev\Clamp\config\debug\AndroidManifest.xml

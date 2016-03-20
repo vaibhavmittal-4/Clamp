@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- From: file:/C:/Users/charu/Downloads/Telegram-dev/Telegram-dev/Clamp/src/main/res/values-v16/bools.xml -->
+    <eat-comment/>
+    <bool name="useHardwareAcceleration">true</bool>
+</resources>
